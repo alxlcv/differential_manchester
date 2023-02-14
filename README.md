@@ -11,4 +11,4 @@ DPLL takes edges on the input and automatically determines the current baudrate.
 This has an original adjustment system based on 2 counters and accurately captures of the signal in the center of the pulse. 
 You can set up the baudrate manually using the divider. However, the PLL itself adjusts the current baudrate.
 
-The decoder synchronizes the external signal, captures 3 bits to the buffer and еhis decodes them using the original scheme.
+The decoder synchronizes the external signal, captures 3 bits to the buffer and decodes them using the original scheme.
