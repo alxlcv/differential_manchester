@@ -1,0 +1,52 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Tue Feb 14 21:09:06 2023
+[*]
+[dumpfile] "/home/user0/differential_manchester/testbench/differential_manchester_tb.vcd"
+[dumpfile_mtime] "Tue Feb 14 21:08:44 2023"
+[dumpfile_size] 15163099
+[savefile] "/home/user0/differential_manchester/testbench/differential_manchester_tb.gtkw"
+[timestart] 650550
+[size] 3840 2024
+[pos] -1 -1
+*-11.000000 293268 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] differential_manchester_tb.
+[sst_width] 356
+[signals_width] 302
+[sst_expanded] 1
+[sst_vpaned_height] 623
+@20000
+-
+@28
+differential_manchester_tb.clk
+@22
+differential_manchester_tb.lfsr[7:0]
+@28
+differential_manchester_tb.rst
+differential_manchester_tb.rx_ce2x
+differential_manchester_tb.rx_slew
+differential_manchester_tb.tx_ce
+differential_manchester_tb.tx_ce2x
+differential_manchester_tb.txd
+@20000
+-
+@23
+differential_manchester_tb.DPLL_UUT.acc[15:0]
+@29
+differential_manchester_tb.DPLL_UUT.ce
+differential_manchester_tb.DPLL_UUT.clk
+differential_manchester_tb.DPLL_UUT.clr
+@23
+differential_manchester_tb.DPLL_UUT.correct_div[15:0]
+differential_manchester_tb.DPLL_UUT.div[15:0]
+differential_manchester_tb.DPLL_UUT.div_cnt[15:0]
+@29
+differential_manchester_tb.DPLL_UUT.down_correct
+differential_manchester_tb.DPLL_UUT.rst
+differential_manchester_tb.DPLL_UUT.slew
+@23
+differential_manchester_tb.DPLL_UUT.sub_div_cnt[15:0]
+@29
+differential_manchester_tb.DPLL_UUT.up_correct
+[pattern_trace] 1
+[pattern_trace] 0
